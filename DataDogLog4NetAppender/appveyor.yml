@@ -2,4 +2,4 @@
 build:
   verbosity: minimal
 before_build:
-  - nuget restore BehindTheScenes\BehindTheScenes.sln
+  - nuget restore DataDogLog4NetAppender.sln
